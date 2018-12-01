@@ -7,8 +7,8 @@ Python 3.6
 
 # How to run
 Download mnist_m dataset from https://github.com/fungtion/DANN & put it in dir "data"  
-change data root in params.py  
-run main.py  
+Change data root in params.py  
+Run main.py  
 
 
 # Reference
